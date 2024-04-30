@@ -10,6 +10,8 @@ https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data?resource=down
 
 <h1>Второй пример</h1>
 Визуализация с помощью Excel</br>
+<img src=https://github.com/Vikkingsk8/Data_Visualisation/blob/main/image_2024-04-30_23-12-54.png></br>
+Файл с данными прикреплен в репозитории</br>
 
 
 
