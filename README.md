@@ -16,6 +16,7 @@ https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data?resource=down
 <h1>Третий пример</h1>
 Визуализация с помощью Redash</br>
 Пишем запрос к БД на языке SQL и тут же по выгрузке данных делаем визуал</br>
+<img src=https://github.com/Vikkingsk8/Data_Visualisation/blob/main/image_2024-04-30_23-22-58.png></br>
 
 
 
