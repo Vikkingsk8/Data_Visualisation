@@ -7,6 +7,7 @@
 <img src=https://github.com/Vikkingsk8/Data_Visualisation/blob/main/Images/image_2024-04-30_20-36-43.png></br>
 CSV файл вы можете найти по ссылке ниже:</br>
 https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data?resource=download</br>
+
 <p>Также файл на <a href=https://github.com/Vikkingsk8/Data_Visualisation/blob/main/Car_price_from_kaggle%20(1).pbix>Дашборд №1</a></p></br>
 
 # Дашборд №2
