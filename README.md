@@ -20,7 +20,7 @@ https://www.kaggle.com/datasets/syedanwarafridi/vehicle-sales-data?resource=down
 <h1>Второй пример</h1>
 Визуализация с помощью Excel</br>
 <img src=https://github.com/Vikkingsk8/Data_Visualisation/blob/main/Images/image_2024-04-30_23-12-54.png></br>
-Файл с данными прикреплен в репозитории</br>
+<p>Ссылка на Дашборд Excel<a href=https://github.com/Vikkingsk8/Data_Visualisation/blob/main/data/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20-%20%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5.xlsx>Дашборд Excel</a></p></br>
 
 <h1>Третий пример</h1>
 Визуализация с помощью Redash</br>
